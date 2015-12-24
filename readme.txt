@@ -6,3 +6,4 @@ JoinQuant的API文档作为一个借鉴可以好好研究
 abc
 adf test
 Ljung-Box
+dev-test
